@@ -1,0 +1,9 @@
+C:\Users\harry\source\repos\spammer\spammer\bin\Release\spammer.exe.config
+C:\Users\harry\source\repos\spammer\spammer\bin\Release\spammer.exe
+C:\Users\harry\source\repos\spammer\spammer\bin\Release\spammer.pdb
+C:\Users\harry\source\repos\spammer\spammer\obj\Release\spammer.Form1.resources
+C:\Users\harry\source\repos\spammer\spammer\obj\Release\spammer.Properties.Resources.resources
+C:\Users\harry\source\repos\spammer\spammer\obj\Release\spammer.csproj.GenerateResource.cache
+C:\Users\harry\source\repos\spammer\spammer\obj\Release\spammer.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\spammer\spammer\obj\Release\spammer.exe
+C:\Users\harry\source\repos\spammer\spammer\obj\Release\spammer.pdb
